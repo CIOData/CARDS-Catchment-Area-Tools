@@ -1,5 +1,5 @@
 <img
-  src="/cards_hex_logo.png"
+  src="images/cards_hex_logo.png"
   style="display: inline-block; margin: 0 auto; width: 100px;"> 
 # CATCHEMENT AREA RESEARCH & DATA SCIENCE (CARDS) GROUP 
 
