@@ -1,4 +1,8 @@
-# CATCHEMENT AREA RESEARCH & DATA SCIENCE (CARDS) GROUP
+<img
+  src="/cards_hex_logo.png"
+  style="display: inline-block; margin: 0 auto; width: 100px;"> 
+# CATCHEMENT AREA RESEARCH & DATA SCIENCE (CARDS) GROUP 
+
 ## Catchment Area Tools
 
 CARDS exists to help build a supportive and collaborative community for those involved in cancer center catchment area data collection,
